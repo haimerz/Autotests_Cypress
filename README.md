@@ -23,7 +23,7 @@
 ![image]()
 
 3. Каждая страница описана в формате объекта с локаторами
-![image](https://raw.githubusercontent.com/MaxEvdokimov1/cypress_autotests/main/locators.png)
+![image]()
 
 ## Локальный запуск тестов (из терминала)
 1. Скачать проект
